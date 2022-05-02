@@ -2,7 +2,7 @@
 
 💻 Software Developer on his way to become a Shadowy Supercoder.
 
-🔎 Take a look at my work [HERE](https://github.com/TheCryptoChad?tab=repositories).
+🔎 Take a look at my work [here](https://github.com/TheCryptoChad?tab=repositories).
 
 📫 Inquiries: adham_elneser@hotmail.com
 
