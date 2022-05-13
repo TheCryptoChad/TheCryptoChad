@@ -5,3 +5,5 @@
 🔎 Take a look at my work [here](https://github.com/TheCryptoChad?tab=repositories).
 
 📫 Inquiries: adham_elneser@hotmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryptoChad&layout=compact&theme=radical&hide=html)
