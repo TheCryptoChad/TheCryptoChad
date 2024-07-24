@@ -68,12 +68,12 @@
       <img width="30%" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma" title="Prisma"/>
       <img width="30%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpH1LVIfhcP82Hgi5pgY473rziEeVzZKDwA&s" alt="Mongoose" title="Mongoose"/>
       <img width="30%" src="https://uploads-ssl.webflow.com/63b5a9958fccedcf67d716ac/64662df3a5a568fd99e3600c_Squid_Pose_1_White-transparent-slim%201.png" alt="SubSquid" title="SubSquid"/>
-      <img width="30%" src="https://miro.medium.com/v2/resize:fit:600/1*SHg7SgjVtPJ-Fma-liXz_Q.png" alt="Ethers.js" title="Ethers.js"/>
-      <img width="30%" src="https://miro.medium.com/v2/resize:fit:1400/0*BJkj30z4lNKIHe8R.png" alt="Wagmi" title="Wagmi"/>
+      <img width="30%" src="https://miro.medium.com/v2/resize:fit:80/1*SHg7SgjVtPJ-Fma-liXz_Q.png" alt="Ethers.js" title="Ethers.js"/>
+      <img width="30%" src="https://miro.medium.com/v2/resize:fit:80/0*BJkj30z4lNKIHe8R.png" alt="Wagmi" title="Wagmi"/>
       <img width="30%" src="https://moralis.io/wp-content/uploads/web3wiki/862-web3-modal/637af4b34d38a62d5f1a7a2c_CO1zMjv6Jk_WnMVJnQbUy-BkeNeTc-Oz_pUCLAUbXl8.png" alt="Web3 Modal" title="Web3 Modal"/>
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI"/>
-      <img width="30%" src="" alt="Shadcn UI" title="Shadcn UI"/>
+      <img width="30%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjouFTAB2PcXfnfkjy1SUjkaMeaymXnzoOA&s" alt="Shadcn UI" title="Shadcn UI"/>
     </td>
     <td width="20%">
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
