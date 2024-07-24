@@ -57,11 +57,11 @@
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
       <img width="30%" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
       <img width="30%" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/>
-      <img width="30%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="Hardhat.js" title="Hardhat.js"/>
+      <img width="30%" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Hardhat.js" title="Hardhat.js"/>
     </td>
     <td width="20%">
       <img width="30%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" alt="tRPC" title="tRPC"/>
-      <img width="30%" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="Tanstack Query" title="Tanstack Query"/>
+      <img width="30%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="Tanstack Query" title="Tanstack Query"/>
       <img width="30%" src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" title="Jotai"/>
       <img width="30%" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod"/>
       <img width="30%" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" title="TypeORM"/>
