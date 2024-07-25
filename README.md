@@ -66,7 +66,7 @@
       <img width="30%" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod"/>
       <img width="30%" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" title="TypeORM"/>
       <img width="30%" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma" title="Prisma"/>
-      <img width="30%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpH1LVIfhcP82Hgi5pgY473rziEeVzZKDwA&s" alt="Mongoose" title="Mongoose"/>
+      <img width="30%" src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongoose" title="Mongoose"/>
       <img width="30%" src="https://uploads-ssl.webflow.com/63b5a9958fccedcf67d716ac/64662df3a5a568fd99e3600c_Squid_Pose_1_White-transparent-slim%201.png" alt="SubSquid" title="SubSquid"/>
       <img width="30%" src="https://miro.medium.com/v2/resize:fit:80/1*SHg7SgjVtPJ-Fma-liXz_Q.png" alt="Ethers.js" title="Ethers.js"/>
       <img width="30%" src="https://miro.medium.com/v2/resize:fit:80/0*BJkj30z4lNKIHe8R.png" alt="Wagmi" title="Wagmi"/>
