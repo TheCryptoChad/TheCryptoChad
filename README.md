@@ -50,6 +50,7 @@
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+      <img width="30%" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" title="Rust"/>
       <img width="30%" src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg" alt="Solidity" title="Solidity"/>
       <img width="30%" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
     </td>
