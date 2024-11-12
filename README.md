@@ -64,6 +64,7 @@
       <img width="30%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" alt="tRPC" title="tRPC"/>
       <img width="30%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="Tanstack Query" title="Tanstack Query"/>
       <img width="30%" src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" title="Jotai"/>
+      <img width="30%" src="https://zustand-demo.pmnd.rs/favicon.ico" alt="Zustand" title="Zustand"/>
       <img width="30%" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod"/>
       <img width="30%" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" title="TypeORM"/>
       <img width="30%" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma" title="Prisma"/>
